@@ -4,7 +4,7 @@
 # MindMate: An AI Companion for Emotional Wellness 
 
 ## 🧠 Project Overview
-This project implements a sophisticated sentiment analysis and mental health support system that combines multiple AI technologies to provide personalized assistance. The system uses sentiment analysis to understand user emotions and provides context-aware responses through a conversational interface.
+This project implements a sophisticated sentiment analysis and mental health support system that combines multiple AI technologies to provide personalized assistance. The system uses sentiment analysis to understand user emotions and provides context-aware responses through a conversational interface. 
 
 ---
 
@@ -19,7 +19,7 @@ This project implements a sophisticated sentiment analysis and mental health sup
 - **Advanced AI Models**:
   - Groq's LLaMA 3.3 70B model for intelligent responses.
   - FAISS for efficient vector similarity search.
-  - Hugging Face embeddings for semantic understanding.
+  - Hugging Face embeddings for semantic understanding and anlysis.
 
 ---
 
