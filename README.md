@@ -19,7 +19,7 @@ This project implements a sophisticated sentiment analysis and mental health sup
 - **Advanced AI Models**:
   - Groq's LLaMA 3.3 70B model for intelligent responses.
   - FAISS for efficient vector similarity search.
-  - Hugging Face embeddings for semantic understanding and anlysis.
+  - Hugging Face for emotion analysis.
 
 ---
 
