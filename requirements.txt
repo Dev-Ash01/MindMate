@@ -7,5 +7,5 @@ torchaudio
 torchvision
 requests==2.31.0
 python-dotenv==1.0.0
-pydantic==2.5.0
+pydantic==2.9.2
 aiofiles==23.2.1
