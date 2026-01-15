@@ -2,7 +2,7 @@ fastapi==0.104.1
 uvicorn==0.24.0
 python-multipart==0.0.6
 transformers==4.35.2
-torch
+torch==2.5.0
 torch-audio
 torch-vision
 requests==2.31.0
