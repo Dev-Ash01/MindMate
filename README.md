@@ -5,9 +5,9 @@
 
 # Mental Wellness Chatbot 🌿💙
 
-A production-ready, AI-powered mental wellness chatbot that provides empathetic emotional support with real-time sentiment analysis and safety guardrails. Designed for reliability, simplicity, and deployment.
+A production-ready, AI-powered mental wellness chatbot that provides empathetic emotional support with real-time sentiment analysis and safety guardrails. Designed for reliability, scalability, and deployment.
 
-**Project Status:** ✅ Fully Functional | Ready for GitHub & Local Deployment
+**Project Status:** ✅ Fully Functional | Ready for GitHub & Local Deployment 
 
 ---
 
