@@ -33,7 +33,6 @@ This chatbot is built to:
 | **Safety First** | Crisis responses + professional resource links |
 | **Web Interface** | Clean, modern, responsive chat UI |
 | **Logging** | Comprehensive error handling & debugging |
-| **No Medical Claims** | Clear disclaimers throughout |
 
 ---
 
